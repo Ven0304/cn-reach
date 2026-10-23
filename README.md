@@ -1,5 +1,7 @@
 # cn-reach
 
+English | [中文](README.zh-CN.md)
+
 A Claude Code plugin for read-only access to Chinese platforms that built-in web search and fetch cannot reach. An independent project built on the [agent-reach](https://github.com/Panniantong/Agent-Reach) CLI.
 
 | Platform | What it does | Backend |
