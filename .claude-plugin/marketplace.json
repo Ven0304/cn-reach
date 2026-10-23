@@ -1,0 +1,13 @@
+{
+  "name": "cn-reach-marketplace",
+  "owner": {
+    "name": "Ven0304"
+  },
+  "plugins": [
+    {
+      "name": "cn-reach",
+      "source": "./",
+      "description": "Read-only access to Chinese platforms: WeChat Official Accounts, Bilibili, Xiaohongshu, Xueqiu, V2EX"
+    }
+  ]
+}

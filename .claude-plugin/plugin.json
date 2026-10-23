@@ -1,0 +1,9 @@
+{
+  "name": "cn-reach",
+  "version": "0.1.2",
+  "description": "Read-only access to Chinese platforms: WeChat Official Accounts (bundled script), Bilibili, Xiaohongshu, Xueqiu and V2EX (via the agent-reach CLI).",
+  "author": {
+    "name": "Ven0304"
+  },
+  "keywords": ["wechat", "bilibili", "xiaohongshu", "xueqiu", "chinese", "agent-reach"]
+}

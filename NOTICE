@@ -1,0 +1,13 @@
+cn-reach
+Copyright (c) 2026 Ven0304, released under the MIT License (see LICENSE).
+
+This project builds on the following work:
+
+agent-reach — https://github.com/Panniantong/Agent-Reach
+  MIT License. Not bundled: cn-reach calls the agent-reach CLI, which users
+  install from its own GitHub release.
+
+weixin_search_mcp — https://github.com/fancyboi999/weixin_search_mcp
+  MIT License. skills/cn-reach/scripts/wechat.py follows its approach to
+  Sogou Weixin search and redirect-link resolution; the code is a separate
+  implementation.
